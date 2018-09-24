@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/yanngabbud/Sweng.svg?branch=master)](https://travis-ci.org/yanngabbud/Sweng)
